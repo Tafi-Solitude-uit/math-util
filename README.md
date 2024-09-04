@@ -1,3 +1,5 @@
+[![DEMO CI with GitHub Actions using Ant and JUnit | © 2024 by Hoàng Thế Anh Tài](https://github.com/Tafi-Solitude-uit/math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/Tafi-Solitude-uit/math-util/actions/workflows/math-util-ci.yml)
+
 # WELCOME TO MATH-UTIL REPOSITTORY
 
 

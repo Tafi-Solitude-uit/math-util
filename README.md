@@ -6,3 +6,8 @@
 * The JUnit source code regarding to Unit Testing level
 * .gitignore file and README.md file to manage the content of this repo
 * ...
+
+### Screen shot
+![JUnit with TDD](https://github.com/Tafi-Solitude-uit/math-util/blob/main/images/math-util-intro.png)
+
+© 2024 Hoàng Thế Anh Tài
